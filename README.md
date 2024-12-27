@@ -2,6 +2,10 @@
 
 A Retrieval Augmented Generation (RAG) system that allows users to upload PDFs and ask questions about their content. The system uses local LLMs via Ollama for both embeddings and question answering.
 
+![image](https://github.com/user-attachments/assets/61812c93-cac3-4e26-a776-51fb6a41aa6c)
+![image](https://github.com/user-attachments/assets/c8b7d106-cd25-4c22-9ec6-4a167e1d84e5)
+
+
 ## Features
 
 - PDF document processing and chunking
