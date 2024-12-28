@@ -38,8 +38,8 @@ ollama pull nomic-embed-text       # For embeddings
 
 ```bash
 # Clone repository
-git clone https://github.com/Anirudh-Aravind/rag_application.git
-cd rag-application
+git clone https://github.com/Anirudh-Aravind/PDF_QstAns_System_RAG.git
+cd PDF_QstAns_System_RAG
 
 # Create virtual environment
 python -m venv venv
