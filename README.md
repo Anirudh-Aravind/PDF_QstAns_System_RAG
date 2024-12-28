@@ -38,7 +38,7 @@ ollama pull nomic-embed-text       # For embeddings
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/rag-application.git
+git clone https://github.com/Anirudh-Aravind/rag-application.git
 cd ag-application
 
 # Create virtual environment
